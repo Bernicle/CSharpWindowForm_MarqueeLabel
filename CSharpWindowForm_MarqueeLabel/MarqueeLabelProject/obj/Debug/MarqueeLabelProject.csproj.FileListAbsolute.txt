@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\bin\Debug\MarqueeLabelProject.exe.config
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\bin\Debug\MarqueeLabelProject.exe
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\bin\Debug\MarqueeLabelProject.pdb
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\obj\Debug\MarqueeLabelProject.Form1.resources
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\obj\Debug\MarqueeLabelProject.MarqueeLabel.resources
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\obj\Debug\MarqueeLabelProject.Properties.Resources.resources
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\obj\Debug\MarqueeLabelProject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\obj\Debug\MarqueeLabelProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\obj\Debug\MarqueeLabelProject.exe
+C:\Users\user\source\repos\CSharpWindowForm_MarqueeLabel\MarqueeLabelProject\obj\Debug\MarqueeLabelProject.pdb
